@@ -1,5 +1,5 @@
 <a href="https://www.verilog.solutions/">
-    <img alt="verilogsolutions" src="./verilog.png" style="width: 64px; height: 64px;" align="left">
+    <img alt="verilogsolutions" src="./assets/verilog.png" style="width: 64px; height: 64px;" align="left">
 </a>
 <div align="left">
 

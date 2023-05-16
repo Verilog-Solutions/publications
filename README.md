@@ -3,7 +3,7 @@
 </a>
 <div align="left">
 
-# Verilog Landing Page V3
+# Verilog Publications
 
 **_<a href="https://www.verilog.solutions/">VERILOG.SOLUTIONS</a>_** / 🚸 Verilog Publication
 </div>
@@ -19,7 +19,7 @@
 > ```
 
 ---
-## 📁 Research Publication
+## 📁 Research Publications
 
 
 ### 🔍  MEV Research - The MEV Conundrum 🚀

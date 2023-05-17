@@ -25,14 +25,14 @@
 ### 🔍  MEV Research - The MEV Conundrum 🚀
 The MEV Conundrum refers to the challenge of addressing the negative impact of MEV on the fairness and transparency of blockchain transactions. This is a critical issue that needs to be solved in order for the blockchain industry to reach its full potential.
 
-| Title                | Released Date  | Publication Link |
+| Title                | Release  Date  | Publication Link |
 | -------------------- | -------------- | ---------------- |
 | **The MEV Conundrum**| April 26, 2023 | [Research Notion Link](https://verilog-solutions.notion.site/The-MEV-Conundrum-6d66001b150148739be14d73a8836903)|
 
 
 ## 📍 Exploit Analysis
 
-| Title                             | Released Date  | Publication Link                                                                                                     |
+| Title                             | Release  Date  | Publication Link                                                                                                     |
 | --------------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Evo DeFi Analysis**             | April 29, 2022 | [Exploit Report](exploit_analysis/evo_defi_analysis.md)                                                              |
 | **Gnosis Chain Reentrancy Attack**| March 16, 2022 | [Exploit Report](exploit_analysis/gnosis_chain_reentrancy_attack.md)                                                 |

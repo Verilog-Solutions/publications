@@ -32,11 +32,11 @@ The MEV Conundrum refers to the challenge of addressing the negative impact of M
 
 ## 📍 Exploit Analysis
 
-| Title                             | Released Date  | Publication Link                                                    |
-| --------------------------------- | -------------- | ------------------------------------------------------------------- |
-| **Evo DeFi Analysis**             | April 29, 2022 | [Exploit Report](exploit_analysis/evo_defi_analysis.md)             |
-| **Gnosis Chain Reentrancy Attack**| March 16, 2022 | [Exploit Report](exploit_analysis/gnosis_chain_reentrancy_attack.md)|
-|**Yearn yUSDT exploit-20230412**   | April 14, 2023 | [Exploit Report](https://verilog-solutions.notion.site/Yearn-yUSDT-exploit-20230412-c015edee44f44fe7808510b0e9ab9ad6)|
+| Title                             | Released Date  | Publication Link                                                                                                     |
+| --------------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Evo DeFi Analysis**             | April 29, 2022 | [Exploit Report](exploit_analysis/evo_defi_analysis.md)                                                              |
+| **Gnosis Chain Reentrancy Attack**| March 16, 2022 | [Exploit Report](exploit_analysis/gnosis_chain_reentrancy_attack.md)                                                 |
+| **Yearn yUSDT exploit-20230412**  | April 14, 2023 | [Exploit Report](https://verilog-solutions.notion.site/Yearn-yUSDT-exploit-20230412-c015edee44f44fe7808510b0e9ab9ad6)|
 
 
 ## 🚩 Security Audit

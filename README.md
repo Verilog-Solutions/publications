@@ -51,7 +51,7 @@ Part 1 - In this first part of the series, we briefly reviewed the history of ET
 
 | Title                | Release  Date  | Publication Link |
 | -------------------- | -------------- | ---------------- |
-| **Blend Notes**| June 13, 2023 | [Research Notion Link](https://verilog-solutions.notion.site/blend-NFT-Lending-695b8d1b38354afc90191437435a6ca6?pvs=4)|
+| **Blend Notes**| May 2, 2023 | [Research Notion Link](https://verilog-solutions.notion.site/blend-NFT-Lending-695b8d1b38354afc90191437435a6ca6?pvs=4)|
 
 ---
 ## 📍 Exploit Analysis

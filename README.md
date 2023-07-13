@@ -33,20 +33,28 @@ As a dedicated security team focused on web3 research, we are committed to explo
 #### 2. ETH2 / LST / LSTFI Research - Stake it to make it 🚀
 > ETH staking has attracted more and more attention since the Shapella upgrade. We at Verilog Solutions are releasing a three-part research on ETH staking, Liquid Staking Derivative, and LSDFi to help the community navigate through this field. 
 
-Part 1 - In this first part of the series, we briefly reviewed the history of ETH staking, the mechanism of ETH PoS, and the steps to becoming a solo-staker for ETH PoS.
+In this second part of the series, we briefly reviewed the history of ETH staking, the mechanism of ETH PoS, and the steps to becoming a solo-staker for ETH PoS.
 
 | Title                | Release  Date  | Publication Link |
 | -------------------- | -------------- | ---------------- |
-| **Part1 - Stake it to make it**| June 1, 2023 | [Research Notion Link](https://verilog-solutions.notion.site/Stake-it-to-make-it-How-to-start-earning-from-ETH-Staking-0588294c54b54f2f8c418bb7070cb491#b385b1931c5e4531aa14f7850c96e05f)|
+| **Stake it to make it**| June 1, 2023 | [Research Notion Link](https://verilog-solutions.notion.site/Stake-it-to-make-it-How-to-start-earning-from-ETH-Staking-0588294c54b54f2f8c418bb7070cb491#b385b1931c5e4531aa14f7850c96e05f)|
 
-#### 3. Uniswap V4 / TWAMM Notes 🚀
+#### 3. Exploring the Landscape of LSDFi Projects: An In-depth Analysis of Diverse Solutions in the Market 🚀
+> ETH staking has attracted more and more attention since the Shapella upgrade. We at Verilog Solutions are releasing a three-part research on ETH staking, Liquid Staking Derivative, and LSDFi to help the community navigate through this field. 
+
+Capital Efficiency, derivative, decentralization, better yield strategies, interesting stablecoins projects on top of the LST/LSDFi product.
+| Title                | Release  Date  | Publication Link |
+| -------------------- | -------------- | ---------------- |
+| **An In-depth Analysis of Diverse Solutions in the Market**| July 13, 2023 | [Research Notion Link](https://verilog-solutions.notion.site/Exploring-the-Landscape-of-LSDFi-Projects-An-In-depth-Analysis-of-Diverse-Solutions-in-the-Market-aef46498a94e4cdb9822b626f78e0ac4)|
+
+#### 4. Uniswap V4 / TWAMM Notes 🚀
 > 🦄 team announced the V4 smart contracts & whitepaper, below is the summary of V4 and TWAMM protocol idea introduced by the @paradigm team.
 
 | Title                | Release  Date  | Publication Link |
 | -------------------- | -------------- | ---------------- |
 | **Uniswap V4 / TWAMM Notes**| June 13, 2023 | [Research Notion Link](https://verilog-solutions.notion.site/Uniswap-V4-TWAMM-Notes-f5c667b12eae47238b62a942540b7af1?pvs=4)|
 
-#### 4. Blend - NFT Lending Notes 🚀
+#### 5. Blend - NFT Lending Notes 🚀
 > Blur team announced the new NFT Lending Framework Blur, below is the summary of protocol & some thoughts on the architecture design.
 
 | Title                | Release  Date  | Publication Link |
